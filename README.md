@@ -1,4 +1,4 @@
-# Icebreaker App Template
+# Icebreaker(Imported from Microsoft's IceBreaker Bot Template)
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-icebreaker-app/wiki/Solution-overview) |
 | ---- | ---- | ---- |

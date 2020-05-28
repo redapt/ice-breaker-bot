@@ -151,7 +151,7 @@
         "gitRepoUrl": {
             "type": "string",
             "minLength": 1,
-            "defaultValue": "https://github.com/OfficeDev/microsoft-teams-icebreaker-app.git",
+            "defaultValue": "https://github.com/redapt/ice-breaker-bot.git",
             "metadata": {
               "description": "The URL to the GitHub repository to deploy."
             }
