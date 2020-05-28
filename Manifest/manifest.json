@@ -5,10 +5,10 @@
   "id": "d55d08d9-bacb-4567-942f-afd85d632dcc",
   "packageName": "com.microsoft.teams.icebreaker",
   "developer": {
-    "name": "<company name>",
-    "websiteUrl": "<website url>",
-    "privacyUrl": "<privacy url>",
-    "termsOfUseUrl": "<terms of use url>"
+    "name": "Redapt Inc",
+    "websiteUrl": "https://www.redapt.com/",
+    "privacyUrl": "https://www.redapt.com/privacy-statement",
+    "termsOfUseUrl": "https://www.redapt.com/"
   },
   "icons": {
     "color": "color.png",
@@ -24,7 +24,7 @@
   "accentColor": "#64A2CC",
   "bots": [
     {
-      "botId": "<bot id>",
+      "botId": "24081cc2-c5fc-409d-836c-d32b33296c40",
       "scopes": [
         "personal",
         "team"
@@ -38,6 +38,6 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<app domain>"
+    "icebreaker-6sdmpzsdqjxce.azurewebsites.net"
   ]
 }
